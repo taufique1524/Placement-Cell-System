@@ -249,10 +249,3 @@ We welcome contributions! To get started:
 * For major changes, open an issue first to discuss your proposal.
 
 
-## 📬 Contact
-
-**Developed By:** *Owaish Jamal*
-**GitHub:** [owaishjamal](https://github.com/owaishjamal)
-**LinkedIn:** [owaish-jamal-a99a091aa](https://www.linkedin.com/in/owaish-jamal-a99a091aa/)
-**Email:** [owaishjamal98@gmail.com](mailto:owaishjamal98@gmail.com)
-
