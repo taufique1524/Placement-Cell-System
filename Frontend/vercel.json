@@ -1,0 +1,19 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' https://flowbite.s3.amazonaws.com https://res.cloudinary.com https://coenterprises.com.au data:; connect-src 'self' https://p-cellbackend.vercel.app;"
+        }
+      ]
+    }
+  ]
+}
